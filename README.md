@@ -3,7 +3,9 @@ Linear Algebra - Gibert Strang - MIT18.06
 
 From 
 
-https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8
+https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+
+https://1lib.net/book/1023969/f792d3
 
 https://www.bilibili.com/video/BV1zx411g7gq?from=search&seid=11556244393740931609
 
@@ -11,5 +13,7 @@ https://www.bilibili.com/video/BV1zx411g7gq?from=search&seid=1155624439374093160
 ========================================================================
 
 1, Course Video 
+
+========================================================================
 
 2, The book
