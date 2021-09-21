@@ -1,5 +1,6 @@
-# Linear-Algebra
-Linear Algebra - Gibert Strang - MIT18.06
+# Linear-Algebra & Discrete math
+
+Linear Algebra - Gibert Strang 
 
 From 
 
@@ -9,7 +10,6 @@ https://1lib.net/book/1023969/f792d3
 
 https://www.bilibili.com/video/BV1zx411g7gq?from=search&seid=11556244393740931609
 
-Thank you for make it online!
 
 =======================================================
 
@@ -90,5 +90,12 @@ Lec31: Left and Right Inverses; Pseudoinverse
 
 =======================================================
 
+Discrete math - Tom Leighton 
 
-2, The book
+From 
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
+
+https://www.bilibili.com/video/BV1Kb411n7oa/?spm_id_from=333.788.recommend_more_video.1
+
+
